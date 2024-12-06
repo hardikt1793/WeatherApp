@@ -6,7 +6,7 @@ Welcome to **Mentory**, your friendly neighborhood weather app! Whether you’re
 
 ## You can watch the demo of the app in action here:
 
-[WeatherApp Demo](https://github.com/hardikt1793/WeatherApp/blob/main/video/WeatherApp.mp4)
+[![Watch the video]](https://raw.githubusercontent.com/hardikt1793/WeatherApp/blob/main/video/WeatherApp.mp4)
 
 ---
 
