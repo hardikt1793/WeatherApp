@@ -4,6 +4,12 @@ Welcome to **Mentory**, your friendly neighborhood weather app! Whether you’re
 
 ---
 
+## You can watch the demo of the app in action here:
+
+[WeatherApp Demo](./video/WeatherApp.mp4)
+
+---
+
 ## 🚀 What Makes Mentory Special?
 
 - **Live Weather Updates**: Get the latest weather conditions, temperature, and more.
